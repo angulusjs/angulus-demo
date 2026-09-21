@@ -1,0 +1,21 @@
+{
+  "name": "angulus-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angulus/core": "^0.1.1",
+    "@angulus/router": "^0.1.1"
+  },
+  "devDependencies": {
+    "@angulus/tooling": "^0.1.1",
+    "@types/node": "^22.20.4",
+    "@typescript/native-preview": "^7.0.0-dev.20260707.2",
+    "typescript": "^6.0.3"
+  }
+}
